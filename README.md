@@ -8,10 +8,10 @@
 1. **概要**
 
 
-    * 小红书的推荐系统 
+    * 推荐系统的基本概念
     [[slides](https://github.com/wangshusen/RecommenderSystem/blob/main/Slides/01_Basics_01.pdf)].
 
-    * 推荐系统链路
+    * 推荐系统的链路
     [[slides](https://github.com/wangshusen/RecommenderSystem/blob/main/Slides/01_Basics_02.pdf)].
     
 
@@ -19,18 +19,23 @@
 2. **召回**
     
     * 基于物品的协同过滤（ItemCF）
+    [[slides](https://github.com/wangshusen/RecommenderSystem/blob/main/Slides/02_Retrieval_01.pdf)].
     
     * Swing模型
+    [[slides](https://github.com/wangshusen/RecommenderSystem/blob/main/Slides/02_Retrieval_02.pdf)].
     
     * 基于用户的协同过滤（UserCF）
+    [[slides](https://github.com/wangshusen/RecommenderSystem/blob/main/Slides/02_Retrieval_03.pdf)].
     
     * 离散特征处理
     
     * 矩阵补充
     
-    * 双塔模型
+    * 双塔模型：模型和训练
     
-    * 正负样本的选择
+    * 双塔模型：正负样本
+    
+    * 双塔模型：线上服务
     
     * 其它召回通道
     
