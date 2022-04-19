@@ -9,17 +9,23 @@
 
 
     * 推荐系统的基本概念
-    [[slides](https://github.com/wangshusen/RecommenderSystem/blob/main/Slides/01_Basics_01.pdf)].
+    [[slides](https://github.com/wangshusen/RecommenderSystem/blob/main/Slides/01_Basics_01.pdf)]
+    [[YouTube](https://youtu.be/5dTOPen28ts)]
+    [[B站](https://www.bilibili.com/video/BV1PS4y1A7za)].
 
     * 推荐系统的链路
-    [[slides](https://github.com/wangshusen/RecommenderSystem/blob/main/Slides/01_Basics_02.pdf)].
+    [[slides](https://github.com/wangshusen/RecommenderSystem/blob/main/Slides/01_Basics_02.pdf)]
+    [[YouTube](https://youtu.be/HMcCaG9RmnU)]
+    [[B站](https://www.bilibili.com/video/BV1hF411M7b5)].
     
 
 
 2. **召回**
     
     * 基于物品的协同过滤（ItemCF）
-    [[slides](https://github.com/wangshusen/RecommenderSystem/blob/main/Slides/02_Retrieval_01.pdf)].
+    [[slides](https://github.com/wangshusen/RecommenderSystem/blob/main/Slides/02_Retrieval_01.pdf)]
+    [[YouTube](https://youtu.be/QtmunNLeDvo)]
+    [[B站](https://www.bilibili.com/video/BV1mA4y1Q7RN)].
     
     * Swing模型
     [[slides](https://github.com/wangshusen/RecommenderSystem/blob/main/Slides/02_Retrieval_02.pdf)].
@@ -28,8 +34,10 @@
     [[slides](https://github.com/wangshusen/RecommenderSystem/blob/main/Slides/02_Retrieval_03.pdf)].
     
     * 离散特征处理
+    [[slides](https://github.com/wangshusen/RecommenderSystem/blob/main/Slides/02_Retrieval_04.pdf)].
     
     * 矩阵补充
+    [[slides](https://github.com/wangshusen/RecommenderSystem/blob/main/Slides/02_Retrieval_05.pdf)].
     
     * 双塔模型：模型和训练
     
