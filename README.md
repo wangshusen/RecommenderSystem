@@ -28,18 +28,27 @@
     [[B站](https://www.bilibili.com/video/BV1mA4y1Q7RN)].
     
     * Swing模型
-    [[slides](https://github.com/wangshusen/RecommenderSystem/blob/main/Slides/02_Retrieval_02.pdf)].
+    [[slides](https://github.com/wangshusen/RecommenderSystem/blob/main/Slides/02_Retrieval_02.pdf)]
+    [[YouTube](https://youtu.be/DUUMNTDuJ3Q)]
+    [[B站](https://www.bilibili.com/video/BV1DA4y1Q7rB)].
     
     * 基于用户的协同过滤（UserCF）
-    [[slides](https://github.com/wangshusen/RecommenderSystem/blob/main/Slides/02_Retrieval_03.pdf)].
+    [[slides](https://github.com/wangshusen/RecommenderSystem/blob/main/Slides/02_Retrieval_03.pdf)]
+    [[YouTube](https://youtu.be/7O9zFMNdrZ8)]
+    [[B站](https://www.bilibili.com/video/BV1HY4y1Y7P1)].
     
     * 离散特征处理
-    [[slides](https://github.com/wangshusen/RecommenderSystem/blob/main/Slides/02_Retrieval_04.pdf)].
+    [[slides](https://github.com/wangshusen/RecommenderSystem/blob/main/Slides/02_Retrieval_04.pdf)]
+    [[YouTube](https://youtu.be/Wiqfn0BIcJs)]
+    [[B站](https://www.bilibili.com/video/BV1pS4y1a7QT)].
     
     * 矩阵补充
-    [[slides](https://github.com/wangshusen/RecommenderSystem/blob/main/Slides/02_Retrieval_05.pdf)].
+    [[slides](https://github.com/wangshusen/RecommenderSystem/blob/main/Slides/02_Retrieval_05.pdf)]
+    [[YouTube](https://youtu.be/phpIjr8_C7g)]
+    [[B站](https://www.bilibili.com/video/BV1b34y1e7En)].
     
     * 双塔模型：模型和训练
+    [[slides](https://github.com/wangshusen/RecommenderSystem/blob/main/Slides/02_Retrieval_06.pdf)]
     
     * 双塔模型：正负样本
     
@@ -92,13 +101,13 @@
 
 7. **物品冷启动**
 
-	 * 物品冷启动
+	 * 评价指标
 	 
-    * 冷启召回：简单的召回通道
+    * 简单的召回通道
 
-    * 冷启召回：聚类召回
+    * 聚类召回
     
-    * 冷启召回：Look-Alike人群扩散
+    * Look-Alike人群扩散
     
     * 流量调控
     
