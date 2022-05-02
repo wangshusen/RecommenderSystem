@@ -49,12 +49,23 @@
     
     * 双塔模型：模型和训练
     [[slides](https://github.com/wangshusen/RecommenderSystem/blob/main/Slides/02_Retrieval_06.pdf)]
+    [[YouTube](https://youtu.be/2Mc10LZ-DB0)]
+    [[B站](https://www.bilibili.com/video/BV1YA4y1D75Q)].
     
     * 双塔模型：正负样本
+    [[slides](https://github.com/wangshusen/RecommenderSystem/blob/main/Slides/02_Retrieval_07.pdf)]
+    [[YouTube](https://youtu.be/KOpl2cJyKOg)]
+    [[B站](https://www.bilibili.com/video/BV133411T7ue)].
     
     * 双塔模型：线上服务
+    [[slides](https://github.com/wangshusen/RecommenderSystem/blob/main/Slides/02_Retrieval_08.pdf)]
+    [[YouTube](https://youtu.be/3qOvHfW1A-8)]
+    [[B站](https://www.bilibili.com/video/BV1KY4y1h73Y)].
     
     * 其它召回通道
+    [[slides](https://github.com/wangshusen/RecommenderSystem/blob/main/Slides/02_Retrieval_09.pdf)]
+    [[YouTube]()]
+    [[B站]()].
     
 
 
@@ -102,16 +113,22 @@
 7. **物品冷启动**
 
 	 * 评价指标
+    [[slides](https://github.com/wangshusen/RecommenderSystem/blob/main/Slides/07_ColdStart_01.pdf)]
 	 
     * 简单的召回通道
+    [[slides](https://github.com/wangshusen/RecommenderSystem/blob/main/Slides/07_ColdStart_02.pdf)]
 
     * 聚类召回
+    [[slides](https://github.com/wangshusen/RecommenderSystem/blob/main/Slides/07_ColdStart_03.pdf)]
     
     * Look-Alike人群扩散
+    [[slides](https://github.com/wangshusen/RecommenderSystem/blob/main/Slides/07_ColdStart_04.pdf)]
     
     * 流量调控
+    [[slides](https://github.com/wangshusen/RecommenderSystem/blob/main/Slides/07_ColdStart_05.pdf)]
     
     * 冷启动的AB测试
+    [[slides](https://github.com/wangshusen/RecommenderSystem/blob/main/Slides/07_ColdStart_06.pdf)]
 
 
 
