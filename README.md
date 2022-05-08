@@ -64,8 +64,8 @@
     
     * 其它召回通道
     [[slides](https://github.com/wangshusen/RecommenderSystem/blob/main/Slides/02_Retrieval_09.pdf)]
-    [[YouTube]()]
-    [[B站]()].
+    [[YouTube](https://youtu.be/7CKBjx7bw7k)]
+    [[B站](https://www.bilibili.com/video/BV1m5411R7nd)].
     
 
 
@@ -75,10 +75,6 @@
     * 多目标排序模型
     
     * 更好的多目标模型: MMoE
-    
-    * 预估分数的融合
-    
-    * 预估分数融合的高级技巧
     
     
 4. **改进模型结构**
@@ -93,6 +89,8 @@
 5. **特征处理**
 
     * 连续特征处理
+    
+    * 推荐系统的特征
 
     * 用户行为序列特征
     
@@ -105,7 +103,11 @@
 
 6. **重排**
     
-    * 多样性
+    * 多样性 MMR
+    
+    * 多样性 DPP
+    
+    * 多样性 MGS
 
 
 
