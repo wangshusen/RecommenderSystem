@@ -76,6 +76,10 @@
     
     * 更好的多目标模型: MMoE
     
+    * 视频播放时长建模
+    
+    * 粗排 vs 精排
+    
     
 4. **改进模型结构**
     
@@ -116,6 +120,9 @@
 
 	 * 评价指标
     [[slides](https://github.com/wangshusen/RecommenderSystem/blob/main/Slides/07_ColdStart_01.pdf)]
+    [[YouTube](https://youtu.be/EEQ4qwjezRc)]
+    [[B站](https://www.bilibili.com/video/BV1eZ4y1a7tG)].
+	 
 	 
     * 简单的召回通道
     [[slides](https://github.com/wangshusen/RecommenderSystem/blob/main/Slides/07_ColdStart_02.pdf)]
