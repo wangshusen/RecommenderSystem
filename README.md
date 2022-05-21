@@ -76,9 +76,7 @@
     
     * 更好的多目标模型: MMoE
     
-    * 视频播放时长建模
-    
-    * 粗排 vs 精排
+    * 预估分数融合 & 播放时长建模
     
     
 4. **改进模型结构**
@@ -101,6 +99,8 @@
     * DIN 模型
         
     * SIM 模型
+    
+    * 粗排 vs 精排
 
 
 
@@ -126,9 +126,13 @@
 	 
     * 简单的召回通道
     [[slides](https://github.com/wangshusen/RecommenderSystem/blob/main/Slides/07_ColdStart_02.pdf)]
+    [[YouTube](https://youtu.be/lboewzsA8DU)]
+    [[B站](https://www.bilibili.com/video/BV1HY4y157Ri)].
 
     * 聚类召回
     [[slides](https://github.com/wangshusen/RecommenderSystem/blob/main/Slides/07_ColdStart_03.pdf)]
+    [[YouTube](https://youtu.be/Tm4SlB9A8BQ)]
+    [[B站](https://www.bilibili.com/video/BV1YT4y1q7zC)].
     
     * Look-Alike人群扩散
     [[slides](https://github.com/wangshusen/RecommenderSystem/blob/main/Slides/07_ColdStart_04.pdf)]
