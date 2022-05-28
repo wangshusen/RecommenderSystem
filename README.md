@@ -73,35 +73,40 @@
 3. **排序**
 
     * 多目标排序模型
+    [[slides](https://github.com/wangshusen/RecommenderSystem/blob/main/Slides/03_Rank_01.pdf)]
     
-    * 更好的多目标模型: MMoE
+    * Multi-gate Mixture-of-Experts (MMoE)
     
-    * 预估分数融合 & 播放时长建模
+    * 预估分数融合
     
-    
-4. **改进模型结构**
-    
-    * 交叉网络
-    
-    * LHUC
-
-
-
-
-5. **特征处理**
-
-    * 连续特征处理
+    * 播放时长建模
     
     * 推荐系统的特征
+    
+    * 粗排 vs 精排
+
+
+    
+4. **交叉结构**
+    
+    * Factorized Machine (FM)
+    
+    * Deep & Cross Network (深度交叉网络)
+    
+    * LHUC
+    
+    * FiBiNET
+
+
+
+
+5. **用户行为序列建模**
 
     * 用户行为序列特征
     
     * DIN 模型
         
     * SIM 模型
-    
-    * 粗排 vs 精排
-
 
 
 
@@ -136,12 +141,18 @@
     
     * Look-Alike人群扩散
     [[slides](https://github.com/wangshusen/RecommenderSystem/blob/main/Slides/07_ColdStart_04.pdf)]
+    [[YouTube](https://youtu.be/pjmRo8Uzzqg)]
+    [[B站](https://www.bilibili.com/video/BV1U5411X7ud)].
     
     * 流量调控
     [[slides](https://github.com/wangshusen/RecommenderSystem/blob/main/Slides/07_ColdStart_05.pdf)]
+    [[YouTube](https://youtu.be/QGD-1Feq1ZQ)]
+    [[B站](https://www.bilibili.com/video/BV1vS4y1z7sC)].
     
     * 冷启动的AB测试
     [[slides](https://github.com/wangshusen/RecommenderSystem/blob/main/Slides/07_ColdStart_06.pdf)]
+    [[YouTube]()]
+    [[B站]()].
 
 
 
