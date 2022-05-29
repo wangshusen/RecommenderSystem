@@ -76,14 +76,17 @@
     [[slides](https://github.com/wangshusen/RecommenderSystem/blob/main/Slides/03_Rank_01.pdf)]
     
     * Multi-gate Mixture-of-Experts (MMoE)
+    [[slides](https://github.com/wangshusen/RecommenderSystem/blob/main/Slides/03_Rank_02.pdf)]
     
     * 预估分数融合
+    [[slides](https://github.com/wangshusen/RecommenderSystem/blob/main/Slides/03_Rank_03.pdf)]
     
     * 播放时长建模
+    [[slides](https://github.com/wangshusen/RecommenderSystem/blob/main/Slides/03_Rank_04.pdf)]
     
     * 推荐系统的特征
     
-    * 粗排 vs 精排
+    * 粗排三塔模型
 
 
     
