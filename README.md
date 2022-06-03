@@ -98,7 +98,7 @@
     
     * LHUC
     
-    * FiBiNET
+    * SENet & FiBiNET
 
 
 
@@ -154,8 +154,8 @@
     
     * 冷启动的AB测试
     [[slides](https://github.com/wangshusen/RecommenderSystem/blob/main/Slides/07_ColdStart_06.pdf)]
-    [[YouTube]()]
-    [[B站]()].
+    [[YouTube](https://youtu.be/oEUi4mSAv8Q)]
+    [[B站](https://www.bilibili.com/video/BV12341137Cq)].
 
 
 
